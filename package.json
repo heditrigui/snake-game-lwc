@@ -17,9 +17,9 @@
         "prettier": "^2.0.5"
     },
     "engines": {
-        "node": "17.x",
-        "npm": ">=6.4.1",
-        "yarn": ">=1.9.4"
+        "node": "v17.2",
+        "npm": "6.4.1",
+        "yarn": "1.9.4"
     },
     "homepage": "https://github.com/adityanaag3/snake-game-lwc",
     "husky": {
